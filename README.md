@@ -1,0 +1,1 @@
+This template gives visual creatives a cinematic web presence that lets the work lead. Projects are managed entirely through Sanity Studio — no code changes needed to add, reorder, or update work. Framer Motion handles page transitions and scroll-triggered reveals. A custom magnetic cursor elevates the desktop experience without touching mobile.

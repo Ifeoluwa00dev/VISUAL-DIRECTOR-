@@ -1,0 +1,8 @@
+{
+  "name": "Cinematic Visual Portfolio",
+  "description": "A highly polished, dark, atmospheric portfolio with an integrated CMS for digital artists, photographers, and videographers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
