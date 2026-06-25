@@ -6,10 +6,10 @@ export const INITIAL_PROJECTS: Project[] = [
     title: "NEON REVERIE: CYBERNETIC EXISTENCE",
     slug: "neon-reverie",
     category: "Digital Art & 3D Direction",
-    coverImage: "/src/assets/images/project_cyber_1781869759581.jpg",
+    coverImage: "/assets/images/project_cyber_1781869759581.jpg",
     gallery: [
-      "/src/assets/images/project_cyber_1781869759581.jpg",
-      "/src/assets/images/hero_background_1781869745518.jpg"
+      "/assets/images/project_cyber_1781869759581.jpg",
+      "/assets/images/hero_background_1781869745518.jpg"
     ],
     description: "An immersive exploration of transhumanist aesthetics in a hyper-digitized sprawl. This project bridges physical material design with interactive neural projections, forming a responsive canvas that reacts to soundwaves.",
     client: "Synthetica Labs",
@@ -24,10 +24,10 @@ export const INITIAL_PROJECTS: Project[] = [
     title: "MONOLITH OF SILENCE",
     slug: "monolith-of-silence",
     category: "Cinematography & Video",
-    coverImage: "/src/assets/images/project_monolith_1781869772154.jpg",
+    coverImage: "/assets/images/project_monolith_1781869772154.jpg",
     gallery: [
-      "/src/assets/images/project_monolith_1781869772154.jpg",
-      "/src/assets/images/hero_background_1781869745518.jpg"
+      "/assets/images/project_monolith_1781869772154.jpg",
+      "/assets/images/hero_background_1781869745518.jpg"
     ],
     description: "An award-winning visual short film documenting the dark, silent ridges of isolated mountain ranges under cosmic teal beams. This project contrasts high-shutter atmospheric smoke with long exposure astral phenomena.",
     client: "National Cinematic League",
@@ -42,10 +42,10 @@ export const INITIAL_PROJECTS: Project[] = [
     title: "CHROMATIC SOUL: COUTURE ELEVATED",
     slug: "chromatic-soul",
     category: "Editorial Photography",
-    coverImage: "/src/assets/images/project_fashion_1781869784368.jpg",
+    coverImage: "/assets/images/project_fashion_1781869784368.jpg",
     gallery: [
-      "/src/assets/images/project_fashion_1781869784368.jpg",
-      "/src/assets/images/hero_background_1781869745518.jpg"
+      "/assets/images/project_fashion_1781869784368.jpg",
+      "/assets/images/hero_background_1781869745518.jpg"
     ],
     description: "A high-fashion avant-garde physical study. We configured electric neon-teal backlights against dark, high-contrast, moody profiles to capture silhouettes that blend cybernetic and classic apparel details.",
     client: "AETHER Magazine",
@@ -59,7 +59,7 @@ export const INITIAL_PROJECTS: Project[] = [
 export const INITIAL_BIO: ArtistBio = {
   name: "KAIEN CHEN",
   discipline: "VISUAL DIRECTOR & DIGITAL ARTIST",
-  portrait: "/src/assets/images/artist_profile_1781869799881.jpg",
+  portrait: "/assets/images/artist_profile_1781869799881.jpg",
   bioText: "I am a visual storyteller specializing in dark, atmospheric multimedia direction, digital art installations, and futuristic editorial cinematography. Operating at the intersection of material reality and glowing digital synthesis, my mission is to capture awe-inspiring cinematic moments that reveal the sublime.",
   philosophy: "In the absence of infinite light, shadows describe reality with far greater precision. I embrace near-black contrast, smoke-sculpted geometries, and a single electric teal beacon to map the quiet digital future.",
   availability: "Available for Booking",
